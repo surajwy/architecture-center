@@ -15,7 +15,7 @@ ms.author: pnp
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img src="_images/ms_aac_openbook.svg" alt="" height="140px" />
                         </div>
                     </div>
