@@ -16,7 +16,7 @@ ms.author: pnp
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img src="_images/ms_aac_openbook.svg" alt="" />
+                            <img src="_images/ms_aac_openbook.svg" alt="" height="140px" />
                         </div>
                     </div>
                 <div class="cardText">
@@ -34,8 +34,8 @@ ms.author: pnp
         <div class="cardPadding">
             <div class="card">
                 <div class="cardImageOuter">
-                    <div class="cardImage bgdAccent1">
-                        <img src="_images/ms_aac_cloud.svg" alt="" />
+                    <div class="cardImage">
+                        <img src="_images/ms_aac_cloud.svg" alt=""  height="140px" />
                     </div>
                 </div>
                 <div class="cardText">
@@ -53,8 +53,8 @@ ms.author: pnp
         <div class="cardPadding">
             <div class="card">
                 <div class="cardImageOuter">
-                    <div class="cardImage bgdAccent1">
-                        <img src="_images/ms_aac_lightbulb.svg" alt="" />
+                    <div class="cardImage">
+                        <img src="_images/ms_aac_lightbulb.svg" alt=""  height="140px" />
                     </div>
                 </div>
                 <div class="cardText">
