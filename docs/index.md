@@ -78,130 +78,117 @@ ms.author: pnp
     <div class="card">
         <div class="cardImageOuter">
             <div class="cardImage">
-                <img src="_images/checklist.svg" alt="Design Review Checklists" />
+                <img src="_images/MS_AAC_Toolbox.svg" alt="testing" />
             </div>
         </div>
         <div class="cardText">
-            <h3>Design Review Checklists</h3>
-            <p>Checklists to assist developers and solution architects during the design process.</p>
+            <h3>MS_AAC_Toolbox</h3>
+            <p>Checklists to assist developers and solution architects during the design process.Ut vinyl poutine, heirloom forage semiotics normcore yuccie.</p>
         </div>
     </div>
 </div>
 </div>
 </a>
     </li>
-    <li>
-    <a href="/azure/architecture/resiliency">
+
+<li>
+    <a href="/azure/architecture/checklist/">
 <div class="cardSize">
 <div class="cardPadding">
     <div class="card">
         <div class="cardImageOuter">
             <div class="cardImage">
-                <img src="_images/resiliency.svg" alt="Designing for Resiliency" />
+                <img src="_images/MS_AAC_Cloud.svg" alt="testing" />
             </div>
         </div>
         <div class="cardText">
-            <h3>Designing for Resiliency</h3>
-            <p>Learn how to design resiliency applications for Azure.</p>
+            <h3>MS_AAC_Cloud</h3>
+            <p>Checklists to assist developers and solution architects during the design process.Ut vinyl poutine, heirloom forage semiotics normcore yuccie.</p>
         </div>
     </div>
 </div>
 </div>
 </a>
-    </li>
-    <li>
-    <a href="/azure/architecture/elasticsearch">
+</li>
+
+<li>
+    <a href="/azure/architecture/checklist/">
 <div class="cardSize">
 <div class="cardPadding">
     <div class="card">
         <div class="cardImageOuter">
             <div class="cardImage">
-                <img src="_images/elasticsearch.svg" alt="Run Elasticsearch on Azure" />
+                <img src="_images/MS_AAC_Compass.svg" alt="testing" />
             </div>
         </div>
         <div class="cardText">
-            <h3>Run Elasticsearch on Azure</h3>
-            <p>Learn how to deploy, manage, and tune an Elasticsearch cluster on Azure.</p>
+            <h3>MS_AAC_Compass</h3>
+            <p>Checklists to assist developers and solution architects during the design process.Ut vinyl poutine, heirloom forage semiotics normcore yuccie.</p>
         </div>
     </div>
 </div>
 </div>
 </a>
-    </li>
-    <li>
-    <a href="/azure/architecture/aws-professional">
+</li>
+
+<li>
+    <a href="/azure/architecture/checklist/">
 <div class="cardSize">
 <div class="cardPadding">
     <div class="card">
         <div class="cardImageOuter">
             <div class="cardImage">
-                <img src="_images/aws-professional.svg" alt="Azure for AWS Professionals" />
+                <img src="_images/MS_AAC_Gauge.svg" alt="testing" />
             </div>
         </div>
         <div class="cardText">
-            <h3>Azure for AWS Professionals</h3>
-            <p>Leverage your AWS experiences in Microsoft Azure.</p>
+            <h3>MS_AAC_Gauge</h3>
+            <p>Checklists to assist developers and solution architects during the design process.Ut vinyl poutine, heirloom forage semiotics normcore yuccie.</p>
         </div>
     </div>
 </div>
 </div>
 </a>
-    </li>
-    <li>
-    <a href="/azure/architecture/multitenant-identity">
+</li>
+
+<li>
+    <a href="/azure/architecture/checklist/">
 <div class="cardSize">
 <div class="cardPadding">
     <div class="card">
         <div class="cardImageOuter">
             <div class="cardImage">
-                <img src="_images/multitenant-identity.svg" alt="Identity Management for Multitenant Applications" />
+                <img src="_images/MS_AAC_Lightbulb.svg" alt="testing" />
             </div>
         </div>
         <div class="cardText">
-            <h3>Identity Management for Multitenant Applications</h3>
-            <p>Understand the best practices for multitenancy, when using Azure AD for identity management.</p>
+            <h3>MS_AAC_Lightbulb</h3>
+            <p>Checklists to assist developers and solution architects during the design process.Ut vinyl poutine, heirloom forage semiotics normcore yuccie.</p>
         </div>
     </div>
 </div>
 </div>
 </a>
-    </li>
-    <li>
-    <a href="https://blogs.msdn.microsoft.com/azurecat/">
+</li>
+
+
+<li>
+    <a href="/azure/architecture/checklist/">
 <div class="cardSize">
 <div class="cardPadding">
     <div class="card">
         <div class="cardImageOuter">
             <div class="cardImage">
-                <img src="_images/azurecat.svg" alt="Azure Customer Advisory Team" />
+                <img src="_images/MS_AAC_OpenBook.svg" alt="testing" />
             </div>
         </div>
         <div class="cardText">
-            <h3>Azure Customer Advisory Team</h3>
-            <p>The AzureCAT team's blog</p>
+            <h3>MS_AAC_OpenBook</h3>
+            <p>Checklists to assist developers and solution architects during the design process.Ut vinyl poutine, heirloom forage semiotics normcore yuccie.</p>
         </div>
     </div>
 </div>
 </div>
 </a>
-    </li>
-    <li>
-    <a href="https://blogs.msdn.microsoft.com/sqlcat/">
-<div class="cardSize">
-<div class="cardPadding">
-    <div class="card">
-        <div class="cardImageOuter">
-            <div class="cardImage">
-                <img src="_images/sqlcat.svg" alt="SQL Server Customer Advisory Team" />
-            </div>
-        </div>
-        <div class="cardText">
-            <h3>SQL Server Customer Advisory Team</h3>
-            <p>The SQLCAT team's blog</p>
-        </div>
-    </div>
-</div>
-</div>
-</a>
-    </li>
+</li>
 </ul>
