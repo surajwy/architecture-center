@@ -51,23 +51,23 @@ The Azure Application Architecture Guide is organized as a series of steps, from
 
 **[Architecture styles][arch-styles]**. The first decision point is the most fundamental. What kind of architecture are you building? It might be a microservices architecture, a more traditional N-tier application, or a big data solution. We have identified seven distinct architecture styles. There are benefits and challenges to each.
 
-> &#10148; Additional guidance: [Azure Reference Architectures][ref-archs] show recommended deployments in Azure, along with considerations for scalability, availability, manageability, and security. Most also include deployable Resource Manager templates.
+> &#10148; [Azure Reference Architectures][ref-archs] show recommended deployments in Azure, along with considerations for scalability, availability, manageability, and security. Most also include deployable Resource Manager templates.
 
 **[Technology Choices][technology-choices]**. Two technology choices should be decided early on, because they affect the entire architecture. These are the choice of compute and storage technologies. The term *compute* refers to the hosting model for the computing resources that your applications runs on. Storage includes databases but also storage for message queues, caches, IoT data, unstructured log data, and anything else that an application might persist to storage. 
 
-> &#10148; Additional guidance: [Compute options][compute-options] and [Storage options][storage-options] provide detailed comparison criteria for selecting compute and storage services.
+> &#10148; [Compute options][compute-options] and [Storage options][storage-options] provide detailed comparison criteria for selecting compute and storage services.
 
 **[Design Principles][design-principles]**. Throughout the design process, keep these ten high-level design principles in mind. 
 
-> &#10148; Additional guidance: [Best practices][best-practices] articles give specific guidance on areas such as auto-scaling, caching, data partitioning, API design, and others.   
+> &#10148; [Best practices][best-practices] articles give specific guidance on areas such as auto-scaling, caching, data partitioning, API design, and others.   
 
 **[Pillars][pillars]**. A successful cloud application will focus on these five pillars of software quality: Scalability, availability, resiliency, management, and security. 
 
-> &#10148; Additional guidance: Use our [Design review checklists][checklists] to review your design according to these quality pillars. 
+> &#10148; Use our [Design review checklists][checklists] to review your design according to these quality pillars. 
 
 **[Cloud Design Patterns][patterns]**. These design patterns are useful for building reliable, scalable, and secure applications on Azure. Each pattern describes a problem, a pattern that addresses the problem, and an example based on Azure.
 
-> &#10148; Additional guidance: View the complete [Catalog of cloud design patterns](../patterns/index.md).
+> &#10148; View the complete [Catalog of cloud design patterns](../patterns/index.md).
 
 
 [arch-styles]: ./architecture-styles/index.md
